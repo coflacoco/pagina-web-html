@@ -8,9 +8,25 @@
 </head>
 
 
-<body>
+<body bgcolor="blue" text="red"> <p>hola!, biebvenido a mi primera pagina web.</p>
+
+<p  text="white">¿que es la nanotecnologia? </p>
+
+<p>La nanotecnología es un campo de las ciencias aplicadasdedicado al control y manipulación de la materia a una escala menor que un micrómetro, es decir,
+ a nivel de átomos ymoléculas (nanomateriales).</p>
+<img src="nano.jpg">
+<p> Lo más habitual es que tal manipulación se produzca en un rango de entre uno y ciennanómetros. Para hacerse una idea de lo pequeño que
+ puede ser un nanobot, más o menos un nanobot de 50 nm tiene el tamaño de 5 capas de moléculas o átomos (depende de qué esté hecho el nanobot). </p>
+<img src="nanoo.jpg">
+<img src="img.jpg">
 </body
 
+
+
+
+
+
+</html>
 
 
 
