@@ -1,42 +1,46 @@
-<html>
+<html lang="es">
 
 
 <head>
-<title>pagina web hth!
-</title>
-
+<title>mi primera pagina  web</title>
+<meta sharset="utf-8">
+<meta name="viewport" content="width-device-width">
+<link rel="stylesheet" href="estilos/estilos.css">
 </head>
 
 
-<body bgcolor="blue" text="red"> <p>hola!, biebvenido a mi primera pagina web.</p>
+<body bgcolor="blue" text="black">
+	<section id="contenedor">
+		<header>
+		</header>
+	<section id="banner">
+	</section>
+	<section id="noticias">
+		<article id="noticia1"></article>
+		<article id="noticia2"></article>
+		<article id="noticia3"></article>
+		
+		
 
-<p  text="white">¿que es la nanotecnologia? </p>
+	</section>
+	<section id="tienda">
+		<article id="objeto1"></article>
+		<article id="objeto2"></article>
+		<article id="objeto3"></article>
+		<article id="objeto4"></article>
+		
+		
+	</section>
+	<section id ="marcas">
+	</section>
+	<footer>
+	</footer>
+</section> <!--sierra contenedor-->
 
-<p>La nanotecnología es un campo de las ciencias aplicadasdedicado al control y manipulación de la materia a una escala menor que un micrómetro, es decir,
- a nivel de átomos ymoléculas (nanomateriales).</p>
-<img src="nano.jpg">
-<p> Lo más habitual es que tal manipulación se produzca en un rango de entre uno y ciennanómetros. Para hacerse una idea de lo pequeño que
- puede ser un nanobot, más o menos un nanobot de 50 nm tiene el tamaño de 5 capas de moléculas o átomos (depende de qué esté hecho el nanobot). </p>
-<img src="nanoo.jpg">
-<img src="img.jpg">
-</body
-
-
-
-
+ </body>
+ 
 
 
 </html>
 
-
-
-
-
-
-
-
-
-
-
-
-</html>
+estilos css
