@@ -2,7 +2,7 @@
 
 
 <head>
-<title>mi primera pagina  web</title>
+<title>Mi primera pagina  web</title>
 <meta sharset="utf-8">
 <meta name="viewport" content="width-device-width">
 <link rel="stylesheet" href="estilos/estilos.css">
