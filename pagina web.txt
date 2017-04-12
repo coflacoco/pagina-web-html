@@ -44,3 +44,110 @@
 </html>
 
 estilos css
+*{
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #ccc;
+}
+
+#contenedor{
+	
+	height: 1150px;
+	width: 780px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header ,#banner, #noticias,#tienda, #marcas{
+	background: #fff;
+	width: 780px;
+	height: 100px;
+
+}
+#banner{
+	background: #666;
+	height: 300px;
+}
+#noticias{
+	background:#fff;
+	width: 760px;
+	height: 220px;
+	padding-left:10px;
+	padding-right: 10;
+	padding-top:5px;
+}
+#tienda{
+	background: #666;
+	width: 760px;
+	height: 180px;
+	padding-left:10px;
+	padding-right: 10px;
+	padding-top:10px;
+}
+#marcas{
+	background: #fff;
+	height: 100px;
+}
+
+footer{	background: #f21;
+	width: 780px;
+	height: 60px;
+
+}
+#noticias #noticia1{
+	background: #5EE152;
+	width: 250px;
+	height: 210px;
+	display: inline-block;
+	vertical-align: top;
+}
+#noticias #noticia2{
+	background: #527BE1;
+	width: 250px;
+	height: 210px;
+	display: inline-block;
+	vertical-align: top;
+}
+#noticias #noticia3{
+	background: #E152DA;
+	width: 250px;
+	height: 210px;
+	display: inline-block;
+	vertical-align: top;
+}
+#tienda #objeto1{
+	background: #FAC9E2;
+	width: 185px;
+	height: 170px;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+#tienda #objeto2{
+	background: #22D8CF;
+	width: 185px;
+	height: 170px;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	}
+	#tienda #objeto3{
+	background: #EFA90E;
+	width: 185px;
+	height: 170px;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+#tienda #objeto4{
+	background: #B6EFF4;
+	width: 185px;
+	height: 170px;
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
